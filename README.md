@@ -55,3 +55,7 @@ Get started with open source Kortix at [kortix.com](https://kortix.com): self-ho
 - Mac users start at [Claude Cowork for Mac](https://opensourceclaudecowork.com/claude-cowork-for-mac), which covers what Cowork needs and the path that needs no desktop app.
 
 For the full picture, the campaign site's [self-hosting guide](https://opensourceclaudecowork.com/self-hosting) walks through owning the whole stack end to end, and its [open-source AI agent platforms](https://opensourceclaudecowork.com/open-source-ai-agent-platforms) page maps the field with open source Kortix first.
+
+## Guides
+
+- [Starter guide: what a starter fixes and what stays the team's job](docs/starter-guides.md)
