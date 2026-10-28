@@ -35,6 +35,8 @@ kortix cr ls
 | `skills/weekly-report/SKILL.md` | The procedure the agent follows for the Monday ops report |
 | `docs/` | Self-hosting, the Claude Cowork and ChatGPT Work comparison, and the FAQ |
 
+The step-by-step version of this setup, from installing the CLI to writing the first agent and skill, is on [how to use Claude Cowork](https://opensourceclaudecowork.com/how-to-use-claude-cowork); the skills and plugins a team adds first are on [Claude Cowork plugins](https://opensourceclaudecowork.com/claude-cowork-plugins).
+
 ## Why a team self-hosts this on Kortix
 
 - One git repo you own. Agents, skills, memory, connector config and triggers are files. Grep a change, diff it, roll it back.
